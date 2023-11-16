@@ -1,0 +1,2 @@
+INDEX VERSION 1.131+E:\Uni\YEAR2\OO Software Development 2 INFS2006 2022 23\OOSD2_2022_CA3_AbdulBadmos\.metadata\.plugins\org.eclipse.jdt.core
+1865797976.index
